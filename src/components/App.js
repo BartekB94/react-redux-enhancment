@@ -1,8 +1,8 @@
 // ./src/components/App.js
-import React from 'react';
-import connect from "react-redux";
+import React from "react";
 
 import Counter from "../containers/CounterContainer";
+
 
 class App extends React.Component {
     render() {
